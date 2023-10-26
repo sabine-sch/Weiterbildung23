@@ -1,0 +1,100 @@
+MicroColony_ID;Treatment;OriginColony_name;Time;Event
+a;Control;Colony 9;1440;0
+a;Control;Colony 9;1440;0
+a;Control;Colony 9;1440;0
+a;Control;Colony 9;1440;0
+a;Control;Colony 9;1440;0
+b;Control;Colony 9;1440;0
+b;Control;Colony 9;1440;0
+b;Control;Colony 9;1440;0
+b;Control;Colony 9;1440;0
+c;Control;Colony 9;1440;0
+c;Control;Colony 9;1440;0
+c;Control;Colony 9;1440;0
+c;Control;Colony 9;1440;0
+c;Control;Colony 9;1440;0
+d;Control;Colony 10;1440;0
+d;Control;Colony 10;1440;0
+d;Control;Colony 10;1440;0
+d;Control;Colony 10;1440;0
+d;Control;Colony 10;1440;0
+e;Control;Colony 10;1440;0
+e;Control;Colony 10;1440;0
+e;Control;Colony 10;1440;0
+e;Control;Colony 10;1440;0
+e;Control;Colony 10;1440;0
+f;Control;Colony 10;1440;0
+f;Control;Colony 10;1440;0
+f;Control;Colony 10;1440;0
+f;Control;Colony 10;1440;0
+f;Control;Colony 10;1440;0
+g;Control;Colony 9;1440;0
+g;Control;Colony 9;1440;0
+g;Control;Colony 9;1440;0
+g;Control;Colony 9;1440;0
+g;Control;Colony 9;1440;0
+h;Control;Colony 9;1440;0
+h;Control;Colony 9;1440;0
+h;Control;Colony 9;1440;0
+h;Control;Colony 9;1440;0
+h;Control;Colony 9;1440;0
+i;Control;Colony 10;1440;0
+i;Control;Colony 10;1440;0
+i;Control;Colony 10;1440;0
+i;Control;Colony 10;1440;0
+i;Control;Colony 10;1440;0
+j;Control;Colony 10;1440;0
+j;Control;Colony 10;1440;0
+j;Control;Colony 10;1440;0
+j;Control;Colony 10;1440;0
+j;Control;Colony 10;1440;0
+k;Roundup No Glyphosate;Colony 9;0;1
+k;Roundup No Glyphosate;Colony 9;10;1
+k;Roundup No Glyphosate;Colony 9;10;1
+k;Roundup No Glyphosate;Colony 9;10;1
+k;Roundup No Glyphosate;Colony 9;1440;0
+l;Roundup No Glyphosate;Colony 9;0;1
+l;Roundup No Glyphosate;Colony 9;0;1
+l;Roundup No Glyphosate;Colony 9;0;1
+l;Roundup No Glyphosate;Colony 9;10;1
+l;Roundup No Glyphosate;Colony 9;10;1
+m;Roundup No Glyphosate;Colony 9;10;1
+m;Roundup No Glyphosate;Colony 9;10;1
+m;Roundup No Glyphosate;Colony 9;10;1
+m;Roundup No Glyphosate;Colony 9;10;1
+m;Roundup No Glyphosate;Colony 9;1440;1
+n;Roundup No Glyphosate;Colony 10;0;1
+n;Roundup No Glyphosate;Colony 10;10;1
+n;Roundup No Glyphosate;Colony 10;10;1
+n;Roundup No Glyphosate;Colony 10;10;1
+n;Roundup No Glyphosate;Colony 10;1440;0
+o;Roundup No Glyphosate;Colony 10;0;1
+o;Roundup No Glyphosate;Colony 10;0;1
+o;Roundup No Glyphosate;Colony 10;0;1
+o;Roundup No Glyphosate;Colony 10;10;1
+o;Roundup No Glyphosate;Colony 10;10;1
+p;Roundup No Glyphosate;Colony 10;0;1
+p;Roundup No Glyphosate;Colony 10;10;1
+p;Roundup No Glyphosate;Colony 10;10;1
+p;Roundup No Glyphosate;Colony 10;1440;1
+p;Roundup No Glyphosate;Colony 10;1440;1
+q;Roundup No Glyphosate;Colony 9;10;1
+q;Roundup No Glyphosate;Colony 9;10;1
+q;Roundup No Glyphosate;Colony 9;10;1
+q;Roundup No Glyphosate;Colony 9;10;1
+q;Roundup No Glyphosate;Colony 9;20;1
+r;Roundup No Glyphosate;Colony 9;0;1
+r;Roundup No Glyphosate;Colony 9;0;1
+r;Roundup No Glyphosate;Colony 9;0;1
+r;Roundup No Glyphosate;Colony 9;0;1
+r;Roundup No Glyphosate;Colony 9;10;1
+s;Roundup No Glyphosate;Colony 10;0;1
+s;Roundup No Glyphosate;Colony 10;0;1
+s;Roundup No Glyphosate;Colony 10;0;1
+s;Roundup No Glyphosate;Colony 10;0;1
+s;Roundup No Glyphosate;Colony 10;10;1
+t;Roundup No Glyphosate;Colony 10;0;1
+t;Roundup No Glyphosate;Colony 10;0;1
+t;Roundup No Glyphosate;Colony 10;10;1
+t;Roundup No Glyphosate;Colony 10;10;1
+t;Roundup No Glyphosate;Colony 10;10;1
